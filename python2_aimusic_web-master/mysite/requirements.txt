@@ -93,7 +93,7 @@ music21==5.5.0
 navigator-updater==0.1.0
 nb-conda==2.2.1
 nb-conda-kernels==2.2.0
-nbconvert==5.1.1
+nbconvert==6.3.0
 nbformat==4.3.0
 networkx==1.11
 nltk==3.2.3
